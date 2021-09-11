@@ -21,8 +21,8 @@ var num2 = 56;
 console.log(" this is num1 + num2:", num1 + num2);
 
 //string
-var str1 = "this is string ";
-var str2 = 'this is string tooo';
+var str1 = "this is string 1";
+var str2 = 'this is string 2';
 console.log(str1 + str2);
 
 
